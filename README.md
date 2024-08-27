@@ -10,4 +10,5 @@ confussion matrix:
 ![confussion matrix](https://github.com/user-attachments/assets/19313dd4-ce89-4cad-852b-0f1bcd32c658)
 
 
-
+install the glove vector in this site :
+https://nlp.stanford.edu/data/glove.6B.zip
